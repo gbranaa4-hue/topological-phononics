@@ -1,0 +1,22 @@
+{
+  "title": "Topological protection as a defect-tolerant reservoir primitive: a pre-registered simulation study of when it holds",
+  "upload_type": "software",
+  "description": "A pre-registered simulation study of the Su-Schrieffer-Heeger (SSH) resonator chain as a physical reservoir. Main finding, stated as a conditional: topological structure protects a reservoir's computation against a dead element exactly when chiral symmetry holds -- several-fold in the idealized tight-binding model on a linear task, weaker under nonlinearity (NARMA10) and noise, beaten by generic redundancy, and only marginally (statistically inconclusive) recovered in a physically faithful damped/Duffing model. A separate result: the trained readout cancels structured (low-rank) noise, leaving only the full-rank thermal floor. Includes the full preprint (preprint.pdf), an extended lab report with an honest ledger of retracted claims, ~20 pre-registered experiment scripts with a self-test, an interactive dashboard, and animations. Conducted under the gbranaa4-hue method: pre-register the test, validate the instrument, split the average, find the boundary, and write the 'no' as carefully as the 'yes'.",
+  "creators": [
+    {"name": "gbranaa4-hue"}
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "reservoir computing",
+    "physical reservoir computing",
+    "topological insulator",
+    "SSH model",
+    "neuromorphic computing",
+    "analog computing",
+    "echo state network"
+  ],
+  "related_identifiers": [
+    {"identifier": "https://github.com/gbranaa4-hue/topological-phononics", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}
