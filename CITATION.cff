@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Topological protection as a defect-tolerant reservoir primitive: a pre-registered simulation study of when it holds"
+abstract: "A pre-registered simulation study of the SSH resonator chain as a physical reservoir. Topological structure protects a reservoir's computation against a dead element exactly when chiral symmetry holds -- several-fold in the idealized model, weaker under nonlinearity and noise, beaten by generic redundancy, and only marginally recovered in a realistic damped/Duffing device."
+type: software
+authors:
+  - name: "gbranaa4-hue"
+    # replace with: given-names / family-names / orcid before formal submission
+date-released: 2026-07-10
+url: "https://github.com/gbranaa4-hue/topological-phononics"
+license: MIT
+keywords:
+  - reservoir computing
+  - physical reservoir computing
+  - topological insulator
+  - SSH model
+  - neuromorphic computing
+  - analog computing
