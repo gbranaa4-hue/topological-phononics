@@ -1,5 +1,7 @@
 # Topological phononic reservoir
 
+[![DOI](https://zenodo.org/badge/1297052917.svg)](https://doi.org/10.5281/zenodo.21305151)
+
 **When does topological structure make an analog reservoir tolerate a dead element — and when doesn't it?**
 
 A pre-registered simulation study of the SSH resonator chain used as a physical reservoir, taken down the full scoping ladder until the claim stopped giving. Conducted under the [gbranaa4-hue method](gbranaa4-hue-method.pdf): pre-register the test, validate the instrument, split the average, find the boundary, and write the "no" as carefully as the "yes."
@@ -44,6 +46,12 @@ python animate.py            # regenerate the three GIFs above
 ## Scope (read before citing)
 
 Simulation only (tight-binding + a damped/driven Duffing ODE model); linear-memory and NARMA10 reservoir tasks. This is a **candidate primitive characterized honestly**, not a fabricated device — and **not** a quantum computer. A hardware build would need deliberate chiral-symmetry engineering merely to avoid a *reversal* of the effect, and should expect a modest advantage, not the idealized ~5×.
+
+## Cite
+
+If you use this work, please cite it via its DOI (see also `CITATION.cff` — GitHub's "Cite this repository" button):
+
+> gbranaa4-hue (2026). *Topological protection as a defect-tolerant reservoir primitive: a pre-registered simulation study of when it holds.* Zenodo. https://doi.org/10.5281/zenodo.21305151
 
 ## Related
 

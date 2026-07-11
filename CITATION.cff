@@ -7,7 +7,13 @@ authors:
   - name: "gbranaa4-hue"
     # replace with: given-names / family-names / orcid before formal submission
 date-released: 2026-07-10
+version: "v0.2"
 url: "https://github.com/gbranaa4-hue/topological-phononics"
+doi: "10.5281/zenodo.21305151"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21305151"
+    description: "Concept DOI (all versions)"
 license: MIT
 keywords:
   - reservoir computing
