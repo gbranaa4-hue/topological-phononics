@@ -8,7 +8,7 @@ A pre-registered simulation study of the SSH resonator chain used as a physical 
 
 Topological structure protects a reservoir's computation against a dead element **exactly when chiral symmetry holds** — several-fold in the idealized model, weaker under nonlinearity and noise, beaten by generic redundancy, and only marginally (statistically inconclusive) in a realistic damped/nonlinear device. **The idealized magnitude does not transfer to hardware; the chiral boundary condition does.**
 
-Full write-up with every number and the honest ledger of what did *not* hold: **[LAB_REPORT.md](LAB_REPORT.md)**.
+**Preprint:** [preprint.pdf](preprint.pdf) (source: [PREPRINT.md](PREPRINT.md)) — the formal write-up, ready for Zenodo. Extended lab report with every number and the honest ledger of what did *not* hold: **[LAB_REPORT.md](LAB_REPORT.md)**.
 
 ## Demos — every frame computed live from the real method
 
