@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store
+
+# local test audio -- provenance unconfirmed, not published
+real_audio_clip*.npy
